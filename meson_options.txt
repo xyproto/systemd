@@ -291,3 +291,6 @@ option('slow-tests', type : 'boolean', value : 'false',
        description : 'run the slow tests by default')
 option('install-tests', type : 'boolean', value : 'false',
        description : 'install test executables')
+
+option('ok-color', type: 'combo', choices : ['blue', 'green', 'orange'],
+       description: 'the color of the ansi "OK" text when services start')

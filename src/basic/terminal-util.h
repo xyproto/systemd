@@ -30,6 +30,8 @@
 
 #define ANSI_RED "\x1B[0;31m"
 #define ANSI_GREEN "\x1B[0;32m"
+#define ANSI_BLUE "\x1B[0;34m"
+#define ANSI_ORANGE "\x1B[1;33m"
 #define ANSI_UNDERLINE "\x1B[0;4m"
 #define ANSI_HIGHLIGHT "\x1B[0;1;39m"
 #define ANSI_HIGHLIGHT_RED "\x1B[0;1;31m"
